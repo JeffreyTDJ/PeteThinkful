@@ -32,21 +32,20 @@ p {
 
 article {
   padding: 50px 0;
-
 }
 
-article div {
+#about div {
   text-align: center;
-  width: 100%;
   }
 
+#portfolio div {
+  text-align: center;
+}
 
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
   width: 600px;
-
-
 }
 
 img {
@@ -60,8 +59,6 @@ hr {
   width: 19cm;
   border: 1px solid black;
 }
-
-
 
 /* Add your solution below */
 
